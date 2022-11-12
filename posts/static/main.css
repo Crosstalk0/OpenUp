@@ -19,6 +19,10 @@
   border-bottom:1px solid #43A8DE;
 }
 
+.logo-img{
+width: 4rem;
+height: 4rem;
+}
 
 .premium{
     display: inline-block;
